@@ -1,0 +1,44 @@
+#header {
+  margin: 20px;
+  color: blue;
+  text-align: center;
+  padding: 20px;
+}
+
+#display {
+  margin-top: 30px;
+  margin-left: 20px;
+  background-color: blue;
+  color: white;
+  text-align: center;
+  border: solid 3px #999;
+  padding: 20px;
+}
+
+#leftColumn {
+  background-color: #D8D8D8;
+  border-top: solid 3px blue;
+  border-left: solid 3px blue;
+  border-bottom: solid 3px blue;
+}
+
+#rightColumn {
+  background-color: #D8D8D8;
+  padding-left: 40px;
+  border-top: solid 3px blue;
+  border-right: solid 3px blue;
+  border-bottom: solid 3px blue;
+}
+
+.drum-pad {
+  background-color: #999;
+  box-shadow: 5px 5px blue;
+  border: none;
+  color: white;
+  width: 70px;
+  height: 80px;
+  margin: 5px;
+  padding: 30px;
+  text-align: center;
+  font-size: 16px;
+}
